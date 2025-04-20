@@ -2,7 +2,7 @@
 
 enabled = true --chat "/spy" to toggle!
 spyOnMyself = true --if true will check your messages too
-public = false --if true will chat the logs publicly (fun, risky)
+public = true --if true will chat the logs publicly (fun, risky)
 publicItalics = true --if true will use /me to stand out
 privateProperties = { --customize private logs
     Color = Color3.fromRGB(172,0,255); 
